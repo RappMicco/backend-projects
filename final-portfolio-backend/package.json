@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.1",
+    "helmet": "^8.1.0",
+    "sib-api-v3-sdk": "^8.5.0"
+  },
+  "name": "final-portfolio-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "Rapp Micco Rizo",
+  "license": "ISC"
+}
